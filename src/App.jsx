@@ -5,7 +5,7 @@ import { ColoredMessage } from "./components/ColoredMessage";
 //const App = () => {
 export const App = () => {
   //return null;
-  console.log("レンダリング20111129");
+  console.log("レンダリング20111129-1");
   const [num, setNum] = useState(0);
 
   const onClickButton = () => {
